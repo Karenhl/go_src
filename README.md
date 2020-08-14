@@ -1,2 +1,2 @@
 # go_src
-for go exec
+用于go学习
