@@ -10,7 +10,7 @@ func main() {
 	fmt.Scanln(&age)
 	if age > 18 {
 		fmt.Println("你要对自己的行为负责了")
-	}else{
+	} else {
 		fmt.Println("你还小，放过你了")
 	}
 
